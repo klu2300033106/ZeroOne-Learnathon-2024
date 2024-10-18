@@ -1,0 +1,24 @@
+//Addition
+const add = (a,b)=>
+{
+    return a+b;
+}
+console.log(1+2);
+//Subsatraction
+const sub = (a,b)=>
+{
+    return a-b;
+}
+console.log(2-1);
+//Multiplication
+const mul = (a,b)=>
+{
+    return a*b;
+}
+console.log(2*4);
+//Division
+const div = (a,b)=>
+{
+    return a/b;
+}
+console.log(10/2);
